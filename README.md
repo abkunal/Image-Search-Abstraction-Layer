@@ -4,6 +4,7 @@ Searches the image according to the given query and returns a json file with the
   
 Check it out on Glitch - https://kunal-image-search-abstraction.glitch.me/  
   
+Check out the video below  
 [![Image Search Abstraction Layer](https://github.com/abkunal/Image-Search-Abstraction-Layer/blob/master/Image%20search%20abstraction%20layer%20screenshot.png)](https://www.youtube.com/watch?v=r9jpoLnqfJk)  
   
 ### User Stories  
